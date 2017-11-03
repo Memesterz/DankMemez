@@ -1,0 +1,68 @@
+#BackgroundID {
+    background: black;
+}
+
+#MiddleScreen {
+    width: 500px;
+    height: 500px;
+    background: #443838;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-style: ridge;
+    border-color: white;
+    border-width: 10px;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+
+#Title {
+    color: white;
+    margin-left: 170px;
+    position: absolute;
+    font-size: 25px;
+    font-family: Papyrus;
+}
+
+#Rank {
+    width: 150px;
+    height: 50px;
+    background: #443838;
+    border-radius: 10px;
+    border-style: ridge;
+    border-width: 4px;
+    border-right-style: none;
+    border-top-style: none;
+    margin-left: 350px;
+}
+
+#RankTxt {
+    color: white;
+    position: absolute;
+    font-family: Papyrus;
+    text-align: center;
+    font-size: 25px;
+}
+
+#RankTxtPos {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: -20px
+}
+
+#MSFrame {
+    height: 400px;
+    width: 460px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+#TestFrame {
+    width: 50px;
+    height: 1000px;
+    background: red;
+}
+
+
+
+
