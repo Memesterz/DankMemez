@@ -63,6 +63,38 @@
     background: red;
 }
 
+#HackJob {
+    width: 400px;
+    height: 150px;
+    background: #9e9c9c;
+    border-style: ridge;
+}
 
+#UnknownCharImg {
+    width: 150px;
+    height: 144px;
+    border-style: solid;
+    background: white;
+}
+
+#LevelTitle {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 160px;
+}
+
+#PLvlTitle {
+    font-family: Papyrus;
+}
+
+#LvlTxtPos {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 250px;
+}
 
 
