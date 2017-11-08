@@ -62,7 +62,6 @@
     height: 1000px;
     background: red;
 }
-
 #HackJob {
     width: 400px;
     height: 150px;
@@ -74,7 +73,7 @@
     width: 150px;
     height: 144px;
     border-style: solid;
-    background: red;
+    background: white;
 }
 
 #LevelTitle {
@@ -96,5 +95,4 @@
     margin-top: -150px;
     margin-left: 250px;
 }
-
 
